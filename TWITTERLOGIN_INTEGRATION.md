@@ -1,6 +1,6 @@
 ## Tích Hợp Twitter với AppotaSDK
 
-### Thêm Twitter.frameword
+### Thêm Twitter.framework
 - Vào Project app’s target settings section -> Build phases chọn
 Link Binary with Libraries. Click vào dấu ‘+’  và chọn Twitter.framework -> click vào button Add 
 
